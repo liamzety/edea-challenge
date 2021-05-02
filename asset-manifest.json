@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edea-challenge/static/css/main.100ef3bd.chunk.css",
+    "main.js": "/edea-challenge/static/js/main.207a2fc0.chunk.js",
+    "main.js.map": "/edea-challenge/static/js/main.207a2fc0.chunk.js.map",
+    "runtime-main.js": "/edea-challenge/static/js/runtime-main.8f63bf5a.js",
+    "runtime-main.js.map": "/edea-challenge/static/js/runtime-main.8f63bf5a.js.map",
+    "static/js/2.939cbc6f.chunk.js": "/edea-challenge/static/js/2.939cbc6f.chunk.js",
+    "static/js/2.939cbc6f.chunk.js.map": "/edea-challenge/static/js/2.939cbc6f.chunk.js.map",
+    "index.html": "/edea-challenge/index.html",
+    "precache-manifest.fa5eb74ac5175100d256f22ea60c7dbe.js": "/edea-challenge/precache-manifest.fa5eb74ac5175100d256f22ea60c7dbe.js",
+    "service-worker.js": "/edea-challenge/service-worker.js",
+    "static/css/main.100ef3bd.chunk.css.map": "/edea-challenge/static/css/main.100ef3bd.chunk.css.map",
+    "static/js/2.939cbc6f.chunk.js.LICENSE.txt": "/edea-challenge/static/js/2.939cbc6f.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/edea-challenge/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f63bf5a.js",
+    "static/js/2.939cbc6f.chunk.js",
+    "static/css/main.100ef3bd.chunk.css",
+    "static/js/main.207a2fc0.chunk.js"
+  ]
+}
