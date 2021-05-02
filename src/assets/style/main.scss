@@ -1,0 +1,18 @@
+// BASICS
+@import './basics/variables';
+@import './basics/helpers';
+@import './basics/base';
+@import './basics/typography';
+@import './basics/animations';
+// VIEWS
+@import './views/home';
+
+// COMPONENTS
+@import './components/results-container';
+@import './components/result-container';
+@import './components/search-container';
+@import './components/track-container';
+@import './components/recent-searches-container';
+
+//MODALS
+// @import './modals/screen-modal';

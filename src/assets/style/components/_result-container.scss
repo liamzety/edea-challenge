@@ -1,0 +1,21 @@
+.result-container {
+    cursor: pointer;
+    padding: 2px;
+    margin-bottom: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: .2s;
+    color: $black;
+    font-weight: 700;
+
+    &:hover {
+        color: $orange;
+    }
+
+    &.animateFlying {
+        position: absolute;
+        color: $orange;
+        animation: fly 2s both;
+    }
+}

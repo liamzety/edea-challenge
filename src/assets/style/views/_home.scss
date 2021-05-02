@@ -1,0 +1,42 @@
+.home {
+    min-height: 100vh;
+    margin: auto;
+    padding: 50px 20px;
+    display: flex;
+    justify-content: space-evenly;
+
+    .search-wrapper {
+        display: flex;
+        height: 100%;
+        width: 350px;
+        margin-right: 100px;
+
+        @media (max-width:$breakpoint) {
+            margin: auto;
+            width: 250px;
+            width: 100%;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
+        @media (max-width:$breakpoint2) {
+            width: 350px;
+            align-items: center;
+            flex-direction: column-reverse;
+
+        }
+    }
+
+    .track-wrapper {
+        width: 800px;
+
+        @media (max-width:$breakpoint) {
+            margin-bottom: 10px;
+            width: 100%;
+        }
+    }
+
+    @media (max-width:$breakpoint) {
+        flex-direction: column-reverse;
+    }
+}

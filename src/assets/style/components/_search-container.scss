@@ -1,0 +1,35 @@
+.search-container {
+    form {
+        display: flex;
+
+        input {
+            padding: 12px;
+            width: 300px;
+            border: none;
+            border-radius: 5px 0 0 5px;
+            background: $white;
+        }
+
+        .search-icon-container {
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 8px;
+            background: $orange;
+            border-radius: 0 5px 5px 0px;
+            cursor: pointer;
+            transition: .3s;
+
+            &:hover {
+                background-color: $orangeHover;
+            }
+
+            .search-icon {
+                font-size: 20px;
+                color: #ffffff;
+            }
+        }
+    }
+
+}
